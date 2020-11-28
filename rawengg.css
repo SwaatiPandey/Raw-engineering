@@ -109,7 +109,12 @@ body{
   width: 30%;
   padding: 3px;
 }
-
+hr {
+  width: 7%;
+  text-align: center;
+  padding: 1px;
+  background-color: red;
+}
 .browse {
   display: flex;
   flex-direction: row;
